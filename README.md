@@ -34,6 +34,9 @@ Selesai
 ## Investment Profit Calculator (latihan2.py)
 Program yang menghitung laba bulanan untuk investasi selama 8 bulan dengan tingkat laba yang bervariasi.
 
+![gambar](https://github.com/M-Rakha/labpy03/blob/154efa8f9c34baa5ee984652ea95f37d18a4d14e/Cuplikan%20layar%202024-11-03%20211202.png)
+
+
 
 
 
