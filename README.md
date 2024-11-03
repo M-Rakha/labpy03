@@ -36,6 +36,42 @@ Program yang menghitung laba bulanan untuk investasi selama 8 bulan dengan tingk
 
 ![gambar](https://github.com/M-Rakha/labpy03/blob/154efa8f9c34baa5ee984652ea95f37d18a4d14e/Cuplikan%20layar%202024-11-03%20211202.png)
 
+## Algorithm
+
+```python
+1. Tetapkan modal awal = 100.000.000
+2. Buat list kosong untuk menyimpan laba bulanan
+3. Lakukan perulangan selama 8 bulan:
+   - Bulan 1-2: laba 0%
+   - Bulan 3-4: laba 1%
+   - Bulan 5-7: laba 5%
+   - Bulan 8: laba 2%
+4. Untuk setiap bulan:
+   - Hitung laba berdasarkan persentase
+   - Tampilkan laba bulanan
+   - Simpan laba dalam list
+5. Hitung dan tampilkan total laba
+```
+
+## Example Output
+
+```python
+laba bulan ke- 1 sebesar: 0
+laba bulan ke- 2 sebesar: 0
+laba bulan ke- 3 sebesar: 10000000.0
+laba bulan ke- 4 sebesar: 10000000.0
+laba bulan ke- 5 sebesar: 50000000.0
+laba bulan ke- 6 sebesar: 50000000.0
+laba bulan ke- 7 sebesar: 50000000.0
+laba bulan ke- 8 sebesar: 20000000.0
+Total laba adalah: 190000000.0
+```
+
+
+
+
+
+
 
 
 
