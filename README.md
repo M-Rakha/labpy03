@@ -70,7 +70,12 @@ Total laba adalah: 190000000.0
 ## ATM Sederhana (latihan3.py)
 Program ini akan mensimulasikan mesin ATM sederhana dengan fitur penarikan uang dan pengecekan saldo.
 
+![gambar](https://github.com/M-Rakha/labpy03/blob/ee6328642949cda2e09295197a05bbc6c25030af/Cuplikan%20layar%202024-11-03%20213109.png)
 
+## Fitur Program
+1. Menampilkan saldo
+2. Penarikan uang
+3. Keluar dari program
 
 
 
