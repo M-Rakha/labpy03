@@ -19,4 +19,19 @@ Sebuah program yang akan menggenerate angka random kurang dari 0,5 berdasrkan in
 4. Print "Selesai" saat selesai
 ```
 
+## Example Output
+
+```python
+Masukkan nilai N: 5
+data ke: 1 => 0.17294922043570056
+data ke: 2 => 0.08717360127477924
+data ke: 3 => 0.050516076545020832
+data ke: 4 => 0.27535124215716744
+data ke: 5 => 0.39262323600723776
+Selesai
+```
+
+
+
+
 
