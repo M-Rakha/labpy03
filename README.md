@@ -67,6 +67,10 @@ laba bulan ke- 8 sebesar: 20000000.0
 Total laba adalah: 190000000.0
 ```
 
+## ATM Sederhana (latihan3.py)
+Program ini akan mensimulasikan mesin ATM sederhana dengan fitur penarikan uang dan pengecekan saldo.
+
+
 
 
 
