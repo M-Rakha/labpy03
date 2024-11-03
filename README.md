@@ -31,6 +31,8 @@ data ke: 5 => 0.39262323600723776
 Selesai
 ```
 
+## Investment Profit Calculator (latihan2.py)
+Program yang menghitung laba bulanan untuk investasi selama 8 bulan dengan tingkat laba yang bervariasi.
 
 
 
