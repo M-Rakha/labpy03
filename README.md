@@ -77,6 +77,73 @@ Program ini akan mensimulasikan mesin ATM sederhana dengan fitur penarikan uang 
 2. Penarikan uang
 3. Keluar dari program
 
+## Algorithm
+
+```python
+1. Inisialisasi:
+   - Set saldo awal = Rp 1.000.000
+
+2. Mulai perulangan utama:
+   a. Tampilkan informasi:
+      - Saldo saat ini
+      - Menu pilihan (1. Tarik Uang, 2. Keluar)
+
+   b. Minta input pilihan menu dari pengguna
+
+   c. Jika pilihan = 1 (Tarik Uang):
+      - Minta input jumlah penarikan
+      - Cek apakah jumlah <= saldo
+      - Jika ya: kurangi saldo dan tampilkan pesan sukses
+      - Jika tidak: tampilkan pesan saldo tidak cukup
+
+   d. Jika pilihan = 2 (Keluar):
+      - Tampilkan pesan terima kasih
+      - Keluar dari program
+
+   e. Jika pilihan tidak valid:
+      - Tampilkan pesan error
+      - Kembali ke awal perulangan
+
+3. Program selesai
+```
+
+## Program Details
+## latihan1.py
+1. Menggunakan modul random Python
+2. Menerapkan validasi input
+3. Menghasilkan angka dalam rentang [0, 0,5)
+4. Memformat output sesuai spesifikasi
+## latihan2.py
+- Modal awal tetap: Rp 100.000.000
+- Menghitung laba selama 8 bulan
+- Tingkat laba bervariasi:
+1. Bulan 1-2: 0%
+2. Bulan 3-4: 1%
+3. Bulan 5-7: 5%
+4. Bulan 8: 2%
+- Memberikan rincian laba bulanan
+- Menghitung total laba yang terakumulasi
+## latihan3.py
+## Komponen Utama(ATM Sederhana)
+1. Variabel Saldo
+- Menyimpan jumlah saldo yang tersedia
+- Diinisialisasi dengan nilai Rp 1.000.000
+
+2. Loop Utama
+- Menggunakan while True untuk menjalankan program terus-menerus
+- Berhenti hanya jika user memilih keluar
+
+3. Validasi Input
+- Memastikan pilihan menu valid (1 atau 2)
+- Memastikan jumlah penarikan tidak melebihi saldo
+
+## Batasan Program (ATM Sederhana)
+- Saldo awal tetap: Rp 1.000.000
+- Hanya menyediakan fitur penarikan
+- Tidak ada fitur penyimpanan data permanen
+
+
+
 
 
 
